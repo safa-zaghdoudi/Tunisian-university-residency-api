@@ -157,8 +157,8 @@ The database includes the following models:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tunisian-university-residency-api.git
-cd tunisian-university-residency-api
+git clone https://github.com/safa-zaghdoudi/Tunisian-university-residency-api.git
+cd Tunisian-university-residency-api
 
 # Create and activate a virtual environment
 python -m venv venv
